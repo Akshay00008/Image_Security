@@ -1,0 +1,10 @@
+streamlit==1.18.0
+requests==2.28.1
+Pillow==9.1.0
+numpy==1.23.5
+google-cloud-vision==3.0.2
+deepface==0.0.79
+faiss-cpu==1.7.2
+pymongo==4.3.3
+tensorflow==2.10.1
+concurrent.futures==3.0.5  # Not usually needed, as it's part of the Python standard library (but added for clarity)
