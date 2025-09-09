@@ -1,8 +1,8 @@
 streamlit==1.18.0
 requests==2.28.1
-Pillow==9.1.0
+Pillow==9.1.0  # Use the pre-built wheels for Pillow to avoid build errors
 numpy==1.23.5
-google-cloud-vision==3.0.2
+google-cloud-vision==2.5.2  # Stable version for Google Vision API
 deepface==0.0.79
 faiss-cpu==1.7.2
 pymongo==4.3.3
