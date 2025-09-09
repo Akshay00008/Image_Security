@@ -5,7 +5,7 @@ from pymongo import MongoClient
 
 # --- Google Cloud Vision setup ---
 # Set your Google Application credentials with your service account JSON
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "C:\\Users\\hp\\Desktop\\Security\\pt-generative-bot-2368a761c8d5.json"
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "/home/bramhesh_srivastav/Akshay/computervision/Image_Security/pt-generative-bot-2368a761c8d5.json"
 
 
 # Initialize Vision client
