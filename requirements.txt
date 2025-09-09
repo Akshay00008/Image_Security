@@ -7,5 +7,4 @@ faiss-cpu
 pymongo
 streamlit
 opencv-python-headless
-
-
+tf-keras
