@@ -6,3 +6,4 @@ deepface
 faiss-cpu
 pymongo
 streamlit
+opencv-python
