@@ -7,3 +7,4 @@ faiss-cpu
 pymongo
 streamlit
 opencv-python
+concurrent.futures
