@@ -12,7 +12,7 @@ import streamlit as st
 import concurrent.futures
 
 # Setup Google Vision API credentials path
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "/home/bramhesh_srivastav/Akshay/computervision/Image_Security/pt-generative-bot-2368a761c8d5.json"
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "C:\\Users\\hp\\Desktop\\Security\\Image_Security\\pt-generative-bot-2368a761c8d5.json"
 vision_client = vision.ImageAnnotatorClient()
 
 # MongoDB Configuration
