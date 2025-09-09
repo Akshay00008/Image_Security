@@ -1,10 +1,8 @@
- # Use the pre-built wheels for Pillow to avoid build errors
-numpy==1.23.5
-
-deepface==0.0.79
-faiss-cpu==1.7.2
-pymongo==4.3.3
-tensorflow==2.10.1
-concurrent.futures==3.0.5  # Not usually needed, as it's part of the Python standard library (but added for clarity)
-google-cloud-vision>=2.5.0,<3.0.0
-  # Stable version for Google Vision API
+requests
+Pillow
+numpy
+google-cloud-vision
+deepface
+faiss-cpu
+pymongo
+streamlit
